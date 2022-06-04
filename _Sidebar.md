@@ -1,2 +1,2 @@
-- About Shiyu
-    - [NB]
+- [概览](/README.md)
+    - [介绍](/info.md)
