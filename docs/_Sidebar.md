@@ -1,3 +1,5 @@
-- [概览](docs/README.md)
-- [配置文件](docs/configs)
-    - [config.yml](docs/configs/config.yml.md)
+* [概览](docs/README.md)
+
+* 配置文件
+
+  * [config.yml](configs/config.yml.md)
