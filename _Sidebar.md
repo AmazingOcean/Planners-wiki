@@ -1,2 +1,3 @@
 - [概览](/README.md)
-    - [介绍](/info.md)
+- [配置文件]
+    - [config.yml](/configs/config.yml.md)
