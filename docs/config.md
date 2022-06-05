@@ -1,12 +1,13 @@
 ```yaml
 database:
+  #当前版本还未完成本地存储功能, 仅限使用SQL存储
   use: SQL
   sql:
     host: 127.0.0.1
     port: 3306
     user: root
     password: 123456
-    database: planners
+    database: bukkit-plugin
 
 options: {}
 # by chemdah

@@ -13,7 +13,16 @@
 > **脚本式写法** 通过编写**Kether**脚本来实现自定义技能  
 > 在[**Gitee**](https://gitee.com/amazing-ocean-origin/planners)上开源
 
-!> 在使用**Planners**前, 强烈推荐您有**Kether**基础
+!> 在使用**Planners**前, 强烈建议您有**Kether**基础
+
+## Features
+
+|特性        |                                              |
+|:---        |:---                                          |
+|全脚本化    |通过编写**Kether**脚本来实现自定义职业与技能  |
+|职业        |Planners允许你自定义你的职业                  |
+|技能        |加点升级技能并能创建全自定义的技能树          |
+
 
 ## Start
 
