@@ -20,7 +20,7 @@
 |**职业技能相关**                              |                                               |
 |/pl job skill `<player>`                      |打开技能学习/加点GUI                           |
 |/pl job cast `(player)` `<skill>`             |使**player**释放**skill**                      |
-|/pl job call `<player>` `<key slot>`          |为**萌芽/龙核**设计, 将技能映射到对应**key**上 |
+|/pl job call `<player>` `<key slot>`          |为**萌芽/龙核**设计, 将技能映射到对应**key slot**上, 此处填**key.yml**中的**快捷键ID**|
 |/pl point give `<player>` `<value>`           |为**player**给予**value**技能点                |
 |/pl point tale `<player>` `<value>`           |从**player**减少**value**技能点                |
 |/pl point set `<player>` `<value>`            |将**player**的技能点设置为**value**            |

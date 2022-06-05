@@ -3,7 +3,7 @@
 
 * 配置文件
   * [config.yml](/configs/config.md)
-  * [key](/configs/key.md)
+  * [key.yml](/configs/key.md)
   * [ui.yml](/configs/ui.md)
 
 * 插件指令
