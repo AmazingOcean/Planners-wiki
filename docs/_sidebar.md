@@ -1,7 +1,7 @@
 * 概览
   * [OverView](/README.md)
 
-* 配置文件
+* 配置项
   * [config.yml](/configs/config.md)
   * [key.yml](/configs/key.md)
   * [ui.yml](/configs/ui.md)

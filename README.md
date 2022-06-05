@@ -1,3 +1,3 @@
 # Planners-Wiki
 
-> Author by `肥洋洋` & `Shiyu`
+> Author by `KunSs` & `Shiyu`

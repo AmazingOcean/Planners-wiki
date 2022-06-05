@@ -11,7 +11,7 @@
 
 ## Info
 
-> 由**肥洋洋**基于**TabooLib**开发的**职业技能管理**插件  
+> 由**KunSs**基于**TabooLib**开发的**职业技能管理**插件  
 > **脚本式写法** 通过编写**Kether**脚本来实现自定义技能  
 > 在[**Gitee**](https://gitee.com/amazing-ocean-origin/planners)上开源  
 > 本wiki由**Shiyu**编写
