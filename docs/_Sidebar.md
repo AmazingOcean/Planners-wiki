@@ -2,4 +2,4 @@
 
 * 配置文件
 
-  * [config.yml](configs/config.md "配置文件")
+  * [config.yml](config.md "config.yml")
