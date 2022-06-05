@@ -1,8 +1,10 @@
-* [**概览**](README.md)
+* 概览
+  * [OverView](README.md)
 
 * 配置文件
-
-  * [config.yml](config.md "config.yml")
+  * [config.yml](/configs/config.md)
+  * [key](/configs/key.md)
+  * [ui.yml](/configs/ui.md)
 
 * 插件指令
 

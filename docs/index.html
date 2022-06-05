@@ -42,7 +42,14 @@
         fontsize:'0.9em',
         color:'rgb(90,90,90)',
         language:'chinese'
-      }
+      },
+      tabs: {
+        persist    : true,      // default
+        sync       : true,      // default
+        theme      : 'classic', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      },
     };
   </script>
   <!-- Docsify v4 -->
@@ -58,5 +65,7 @@
   <!-- 外部代码高亮 -->
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-yaml.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-yaml.min.js"></script>
+  <!-- docsify-tabs -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 </body>
 </html>

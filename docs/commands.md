@@ -15,10 +15,8 @@
 |**职业等级相关**                              |                                               |
 |/pl level give `<player>` `<value>`           |为**player**给予**value**级                    |
 |/pl level take `<player>` `<value>`           |从**player**减少**value**级                    |
-|/pl level set `<player>` `<value>`            |将**player**的等级设置为**value**              |
 |/pl experience(exp) give `<player>` `<value>` |为**player**给予**value**点经验                |
 |/pl experience(exp) take `<player>` `<value>` |从**player**减少**value**点经验                |
-|/pl experience(exp) set `<player>` `<value>`  |将**player**的经验值设置为**value**            |
 |**职业技能相关**                              |                                               |
 |/pl job skill `<player>`                      |打开技能学习/加点GUI                           |
 |/pl job cast `(player)` `<skill>`             |使**player**释放**skill**                      |
