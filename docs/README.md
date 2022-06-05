@@ -11,7 +11,8 @@
 
 > 由**肥洋洋**基于**TabooLib**开发的**职业技能管理**插件  
 > **脚本式写法** 通过编写**Kether**脚本来实现自定义技能  
-> 在[**Gitee**](https://gitee.com/amazing-ocean-origin/planners)上开源
+> 在[**Gitee**](https://gitee.com/amazing-ocean-origin/planners)上开源  
+> 本wiki由**Shiyu**编写
 
 !> 在使用**Planners**前, 强烈建议您有**Kether**基础
 
@@ -24,6 +25,7 @@
 |技能        |加点升级技能并能创建全自定义的技能树          |
 |技能释放    |通过快捷键或组合快捷键来快捷释放技能          |
 |SQL数据库   |通过mySQL存储数据, 更加便捷高效与安全         |
+|转职        |自定义设置达到某级进行转职                    |
 
 
 ## Start
